@@ -1,2 +1,2 @@
 # Notes
-A space to stash things via the wiki
+A space to stash resources for the wiki
